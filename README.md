@@ -18,6 +18,21 @@ Clone the public repository https://github.com/ivanolivendev/Cryptocurrency-Pric
 ```
 node index.js
 ```
+## Some Prints
+
+
+
+
+[![execu-o.png](https://i.postimg.cc/7LcV9ZfR/execu-o.png)](https://postimg.cc/8FRMPDdd)
+
+
+
+[![front-end.png](https://i.postimg.cc/MGc0nJdm/front-end.png)](https://postimg.cc/Nyc2nShK)
+
+
+
+[![projeto1.png](https://i.postimg.cc/Zqy3TF5f/projeto1.png)](https://postimg.cc/yJsWjR99)
+
 
 ## In the soon
 The objective of this project is to create an online page where the top 10 cryptocurrencies will be listed. The intention is to build it like a homebroker where you can see the best moments to buy, sell, and have all real-time updates, using Binance's public API. The next steps will be:
